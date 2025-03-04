@@ -1,6 +1,5 @@
 # Hi 👋, I'm Izzatbek
 I am a fullstack developer from Uzbekistan.
-![Profile Views](https://komarev.com/ghpvc/?username=IncridableAcuman&color=blue)
 
 ## About Me
 - 🔭 I’m currently working on **MERN stack projects**
@@ -9,6 +8,8 @@ I am a fullstack developer from Uzbekistan.
 - 💬 Ask me about **MERN Stack, JavaScript, Node.js**
 - 📫 How to reach me: **abdusharipovizzat03@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee ☕**
+
+![Profile Views](https://komarev.com/ghpvc/?username=IncridableAcuman&color=blue)
 
 ## 🚀 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
