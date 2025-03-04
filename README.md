@@ -6,7 +6,7 @@ A passionate fullstack developer from Uzbekistan
 - 🌱 I’m currently learning **Java, Spring Boot**
 - 👯 I’m looking to collaborate on **open source projects**
 - 💬 Ask me about **MERN Stack, JavaScript, Node.js**
-- 📫 How to reach me: **your-email@example.com**
+- 📫 How to reach me: **abdusharipovizzat03@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee ☕**
 
 ## 🚀 Languages and Tools:
