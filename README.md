@@ -1,5 +1,5 @@
 # Hi 👋, I'm Izzatbek
-A passionate fullstack developer from Uzbekistan
+I am a fullstack developer from Uzbekistan.
 
 ## About Me
 - 🔭 I’m currently working on **MERN stack projects**
