@@ -22,8 +22,6 @@ A passionate fullstack developer from Uzbekistan
 
 ## 📊 GitHub Stats:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IncridableAcuman&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IncridableAcuman&theme=dark)
-
 ## 🏆 GitHub
 
 
