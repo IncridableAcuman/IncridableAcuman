@@ -10,6 +10,7 @@ I am a fullstack developer from Uzbekistan.
 - ⚡ Fun fact: **I love coding and coffee ☕**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=IncridableAcuman&color=blue)
+![Trophy](https://github-profile-trophy.vercel.app/?username=IncridableAcuman&theme=onedark)
 
 ## 🚀 Languages and Tools:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
