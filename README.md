@@ -5,10 +5,10 @@ I am a passionate Fullstack Developer from Uzbekistan.
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **MERN stack projects**
+- 🔭 I’m currently working on **MERN stack & Java Spring Boot projects**
 - 🌱 I’m currently learning **Java, Spring Boot**
 - 👯 I’m looking to collaborate on **open source projects**
-- 💬 Ask me about **MERN Stack, JavaScript, Node.js**
+- 💬 Ask me about **MERN Stack, JavaScript, Node.js, Java, Spring Boot**
 - 📫 How to reach me: **abdusharipovizzat03@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee ☕**
 
@@ -39,6 +39,8 @@ I am a passionate Fullstack Developer from Uzbekistan.
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </div>
 
@@ -57,4 +59,3 @@ I am a passionate Fullstack Developer from Uzbekistan.
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
