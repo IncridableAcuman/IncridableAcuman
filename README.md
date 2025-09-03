@@ -54,7 +54,7 @@ Here’s a quick summary of the technologies I use most:
 
 - **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React  
 - **Backend:** Node.js, Express.js, Java, Spring Boot  
-- **Database:** MongoDB  
+- **Database:** MongoDB,Postgresql  
 - **Tools:** Postman, Docker  
 - **Other:** C++, Git 
 
