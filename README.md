@@ -1,19 +1,23 @@
 # 👋 Hi, I'm Izzatbek  
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F79E&center=true&vCenter=true&width=500&lines=Fullstack+Developer;MERN+%26+Spring+Boot+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00F79E&center=true&vCenter=true&width=600&lines=Fullstack+Developer;MERN+%26+Spring+Boot+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+</h1>
 
 ---
 
-## 🔥 About Me
+## 🔥 About Me  
 
-- 🔭 Currently working on **MERN stack & Java Spring Boot projects**
-- 🌱 Learning **Java, Spring Boot**
-- 👯 Open to collaborate on **open source projects**
-- 💬 Ask me about **MERN Stack, JavaScript, Node.js, Java, Spring Boot**
-- 📫 Reach me at: **abdusharipovizzat03@gmail.com**
-- ⚡ Fun fact: **I love coding and coffee ☕**
+- 🔭 Currently working on **MERN stack & Java Spring Boot projects**  
+- 🌱 Learning **Java, Spring Boot**  
+- 👯 Open to collaborate on **open source projects**  
+- 💬 Ask me about **MERN Stack, JavaScript, Node.js, Java, Spring Boot**  
+- 📫 Reach me at: **abdusharipovizzat03@gmail.com**  
+- ⚡ Fun fact: **I love coding and coffee ☕**  
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350" alt="Coding Gif"/>
+</p>
 
 ---
 
@@ -57,9 +61,9 @@
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://t.me/Izzat_9011"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/izzatbek-abdusharipov-300a20275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:abdusharipovizzat03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://t.me/Izzat_9011"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/izzatbek-abdusharipov-300a20275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:abdusharipovizzat03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
@@ -68,4 +72,14 @@
 
 <p align="center">
   <img src="https://github.com/IncridableAcuman/IncridableAcuman/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
+---
+
+## 👀 Visitors Count  
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IncridableAcuman&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/IncridableAcuman?label=Followers&style=for-the-badge" alt="Followers"/>
+  <img src="https://img.shields.io/github/stars/IncridableAcuman?label=Stars&style=for-the-badge" alt="Stars"/>
 </p>
