@@ -1,75 +1,71 @@
-# Hi 👋, I'm Izzatbek
-I am a passionate Fullstack Developer from Uzbekistan.
+# 👋 Hi, I'm Izzatbek  
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F79E&center=true&vCenter=true&width=500&lines=Fullstack+Developer;MERN+%26+Spring+Boot+Enthusiast;Always+Learning+New+Things" alt="Typing Animation" />
+</p>
 
 ---
 
 ## 🔥 About Me
 
-- 🔭 I’m currently working on **MERN stack & Java Spring Boot projects**
-- 🌱 I’m currently learning **Java, Spring Boot**
-- 👯 I’m looking to collaborate on **open source projects**
+- 🔭 Currently working on **MERN stack & Java Spring Boot projects**
+- 🌱 Learning **Java, Spring Boot**
+- 👯 Open to collaborate on **open source projects**
 - 💬 Ask me about **MERN Stack, JavaScript, Node.js, Java, Spring Boot**
-- 📫 How to reach me: **abdusharipovizzat03@gmail.com**
+- 📫 Reach me at: **abdusharipovizzat03@gmail.com**
 - ⚡ Fun fact: **I love coding and coffee ☕**
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity  
 
-![Profile Views](https://komarev.com/ghpvc/?username=IncridableAcuman&color=blue)
-![Trophy](https://github-profile-trophy.vercel.app/?username=IncridableAcuman&theme=onedark)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=IncridableAcuman&show_icons=true&theme=radical&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncridableAcuman&layout=compact&langs_count=8&theme=radical&hide_border=true" height="180em"/>
+</p>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IncridableAcuman&show_icons=true&theme=radical" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncridableAcuman&layout=compact&langs_count=10&theme=radical" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=IncridableAcuman&theme=radical&hide_border=true" height="180em"/>
+</p>
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IncridableAcuman&theme=react-dark)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=IncridableAcuman&theme=onedark&row=1&column=7&margin-w=15&margin-h=15"/>
+</p>
 
----
-
-## 🚀 Languages and Tools
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</div>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IncridableAcuman&theme=react-dark&hide_border=true)
 
 ---
 
-## 📌 Technologies Overview
+## 🚀 Languages and Tools  
 
-Here’s a quick summary of the technologies I use most:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,mongodb,java,spring,cpp,docker,git,postman&theme=dark" />
+</p>
+
+---
+
+## 📌 Tech Stack Overview  
 
 - **Frontend:** HTML5, CSS3, JavaScript, TypeScript, React  
 - **Backend:** Node.js, Express.js, Java, Spring Boot  
-- **Database:** MongoDB,Postgresql  
+- **Database:** MongoDB, PostgreSQL  
 - **Tools:** Postman, Docker  
-- **Other:** C++, Git 
+- **Other:** C++, Git  
 
 ---
 
-## 🌍 Connect with Me
+## 🌍 Connect with Me  
 
-<div align="center">
-  <a href="https://t.me/Izzat_9011">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/izzatbek-abdusharipov-300a20275/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:abdusharipovizzat03@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<p align="center">
+  <a href="https://t.me/Izzat_9011"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/izzatbek-abdusharipov-300a20275/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:abdusharipovizzat03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🐍 Contribution Snake  
+
+<p align="center">
+  <img src="https://github.com/IncridableAcuman/IncridableAcuman/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
