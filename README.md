@@ -3,9 +3,9 @@
 ## 🔥 About Me  
 
 - 🔭 Currently working on **Java Spring Boot & MERN stack projects**  
-- 🌱 Learning **advanced Java backend development, Spring Boot, and clean architecture**  
+- 🌱 Learning **advanced Java backend development, Spring Boot, Clean Architecture, and Redis caching**  
 - 👯 Open to collaborate on **open source backend projects**  
-- 💬 Ask me about **Java, Spring Boot, REST APIs, MERN Stack, Node.js**  
+- 💬 Ask me about **Java, Spring Boot, REST APIs, MERN Stack, Node.js, Redis**  
 - 📫 Reach me at: **abdusharipovizzat03@gmail.com**  
 - ⚡ Fun fact: **I love coding and coffee ☕**  
 
@@ -25,6 +25,7 @@
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Database**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
