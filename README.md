@@ -56,9 +56,6 @@ Currently diving deep into **Clean Architecture**, **Redis caching**, **Microser
   <img src="https://github-profile-trophy.vercel.app/?username=IncridableAcuman&theme=tokyonight&row=1&column=7&margin-w=15&margin-h=15&no-frame=true" alt="Trophies"/>
 </div>
 
----
-
-### 🐍 Contribution Snake – Watch me code! 
 
 <div align="center">
   <picture>
@@ -67,8 +64,6 @@ Currently diving deep into **Clean Architecture**, **Redis caching**, **Microser
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/IncridableAcuman/IncridableAcuman/output/github-contribution-grid-snake.svg" />
   </picture>
 </div>
-
-> **Note:** Snake animatsiyasi har kuni avtomatik yangilanadi (GitHub Action orqali). Agar yo'q bo'lsa, Platane/snk action'ini o'rnating.
 
 ---
 
