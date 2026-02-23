@@ -73,4 +73,3 @@ Currently diving deep into **Clean Architecture**, **Redis caching**, **Microser
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" alt="footer wave" />
 </div> 
-Nega top stats languages va trophies maydonlari ishlamayapti?
