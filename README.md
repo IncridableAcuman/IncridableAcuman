@@ -1,4 +1,3 @@
-https://github.com/IncridableAcuman
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&height=200&section=header&text=Hey!%20I'm%20Izzatbek%20👋&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38" alt="header" />
 </div>
