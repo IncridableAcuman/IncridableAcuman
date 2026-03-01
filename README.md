@@ -30,7 +30,7 @@ Currently diving deep into **Clean Architecture**, **Redis caching**, **Microser
 ### 🛠️ Tech Stack – Current Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,java,spring,postgres,mongodb,redis,docker,rabbitmq,git,postman&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,nextjs,java,spring,postgres,mongodb,redis,docker,rabbitmq,websocket,git,postman&perline=7" alt="Tech Stack Icons" />
 </div>
 
 <p align="center">
