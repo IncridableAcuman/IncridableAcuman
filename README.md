@@ -25,17 +25,17 @@
 
 ### 🚀 Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,postgres,mongodb,redis,rabbitmq,go,cpp&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,postgres,mongodb,redis,rabbitmq,go,cpp&perline=12" />
 </div>
 
 ### 🌐 Frontend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,materialui,bootstrap&perline=8" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,materialui,bootstrap&perline=12" />
 </div>
 
 ### ⚙ DevOps & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,linux,idea,vscode,postman&perline=9" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,git,github,gitlab,linux,idea,vscode,postman&perline=12" />
 </div>
 
 ---
