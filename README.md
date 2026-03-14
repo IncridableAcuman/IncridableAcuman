@@ -46,8 +46,8 @@
   <img height="170em"
   src="https://github-readme-stats.vercel.app/api?username=IncridableAcuman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800"/>
 
-  <img height="170em"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncridableAcuman&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
+<img height="170em"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncridableAcuman&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </div>
 
 <div align="center">
