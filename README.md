@@ -25,7 +25,7 @@
 
 ### 🚀 Backend
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,postgres,mongodb,redis,rabbitmq,go,cpp&perline=12" />
+  <img src="https://skillicons.dev/icons?i=java,spring,hibernate,gradle,postgres,mongodb,redis,rabbitmq,go,nodejs,express,cpp&perline=12" />
 </div>
 
 ### 🌐 Frontend
