@@ -94,13 +94,55 @@ developer:
 ### 📊 GitHub Activity & Metrics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=IncridableAcuman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncridableAcuman&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages"/>
+  <!-- Profile & Annual Contribution Curve Banner Card -->
+  <a href="https://github.com/IncridableAcuman">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IncridableAcuman&theme=tokyonight" alt="GitHub Profile Details" width="100%" />
+  </a>
 </div>
 
+<br/>
+
 <div align="center">
-  <img height="180em" src="https://streak-stats.demolab.com?user=IncridableAcuman&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak"/>
+  <!-- GitHub Overall Stats & Daily Streak Cards -->
+  <img height="195" src="https://github-readme-stats.vercel.app/api?username=IncridableAcuman&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  &nbsp;
+  <img height="195" src="https://streak-stats.demolab.com?user=IncridableAcuman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+<br/>
+
+<div align="center">
+  <!-- Top Languages by Repositories and Commits -->
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IncridableAcuman&theme=tokyonight" alt="Top Languages by Repositories" />
+  &nbsp;
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IncridableAcuman&theme=tokyonight" alt="Top Languages by Commits" />
+</div>
+
+<br/>
+
+<div align="center">
+  <!-- Productive Committing Hours & Detailed Language Percentages -->
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IncridableAcuman&theme=tokyonight" alt="Productive Time Breakdown" />
+  &nbsp;
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IncridableAcuman&layout=compact&langs_count=15&theme=tokyonight&hide_border=true" alt="All Languages Breakdown" />
+</div>
+
+<br/>
+
+#### 🌐 All Technologies & Languages Across Repositories
+
+| Domain | Technology / Language | Usage Across Codebase | Architectural Role in Projects |
+| :--- | :--- | :---: | :--- |
+| **Frontend & Types** | **TypeScript** | **48.19%** *(21 Repositories)* | Primary language for type-safe applications, scalable React 19 / Next.js frontends & shared contracts |
+| **Enterprise Backend** | **Java (17 / 21)** | **29.93%** *(4 Repositories)* | High-performance backend services, Spring Boot microservices, clean DDD architectures & REST APIs |
+| **Full-Stack & Web** | **JavaScript (ES6+)** | **20.28%** *(2 Repositories)* | Dynamic web applications, React ecosystem components, Node.js tooling & scripts |
+| **Modern Styling** | **HTML5 & CSS3** | **1.40%** *(2 Repositories)* | Semantic markup, responsive design layouts, modern Tailwind CSS utilities & animations |
+| **Containerization** | **Dockerfile** | **0.16%** *(Multi-repo)* | Multi-stage Docker container builds, reproducible environments & production deployment recipes |
+| **Algorithms & AI** | **Python** | **0.04%** *(1 Repository)* | Data structure practice, problem solving, utility automation & AI scripting |
+| **Backend Frameworks** | **Spring Boot 3, Spring Security 6** | *Core Backend* | Enterprise application foundation, JWT authentication, OAuth2 social auth & RBAC security |
+| **Persistence & Cache** | **PostgreSQL, MongoDB, Redis** | *Data Layer* | Relational models with Hibernate/JPA, NoSQL document stores & ultra-fast Redis cache layers |
+| **State Management** | **Zustand, Redux Toolkit** | *Client State* | Predictable, high-efficiency reactive state management across complex web applications |
+| **Build & CI/CD** | **Gradle, Maven, GitHub Actions** | *DevOps Pipeline* | Automated dependency resolution, testing pipelines & automated snake/asset updates |
 
 ---
 
